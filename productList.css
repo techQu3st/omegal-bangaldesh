@@ -1,0 +1,91 @@
+<!--Md. Sadik Jabirul Hasan-->
+section{
+    background-color: #F7F8FA;
+    height: 100%;
+}
+.container{
+    width: 87%;
+}
+
+.product{
+    margin-top: 0px;
+    margin-bottom: 37px;
+}
+.half-width{
+    width: 30%;
+    background-color: black;
+}
+.divider{
+    margin-right: -161px;
+    margin-left: 4px;
+}
+.column{
+    
+    border-radius: 6px;
+    width: 155px;
+    margin: 6px;
+    background-color: white;
+    height: 310px;
+    cursor: pointer;
+    
+}
+.column p, h6{
+    text-align: center;
+}
+.column img{
+    height: 50%;
+    width: 60%;
+    margin-top: 20px;
+    margin-left: 25px;
+  
+    /* text-align: center; margin-top: 25px; */
+    /* margin-right: 7px; width: 52%; margin-left: 35px; */
+    
+}
+
+.column img:hover{
+    transform: scale(1.1);
+}
+.column p{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.column h6{
+    margin-top: -10px;
+}
+.column a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+.modal-header img{
+    margin-left: 186px;
+}
+.modal-title img {
+	margin: 39px;
+	margin-left: 42px;
+	margin-right: 98px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
