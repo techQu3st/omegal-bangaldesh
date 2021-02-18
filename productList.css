@@ -1,3 +1,4 @@
+<!--Md. Sadik Jabirul Hasan-->
 section{
     background-color: #F7F8FA;
     height: 100%;
@@ -11,25 +12,29 @@ section{
     margin-bottom: 37px;
 }
 .half-width{
-    width: 40%;
+    width: 30%;
     background-color: black;
 }
-.col-md-2{
+.divider{
+    margin-right: -161px;
+    margin-left: 4px;
+}
+.column{
     
     border-radius: 6px;
-    width: 177px;
+    width: 155px;
     margin: 6px;
     background-color: white;
     height: 310px;
     cursor: pointer;
     
 }
-.col-md-2 p, h6{
+.column p, h6{
     text-align: center;
 }
-.col-md-2 img{
-    height: 52%;
-    width: 66%;
+.column img{
+    height: 50%;
+    width: 60%;
     margin-top: 20px;
     margin-left: 25px;
   
@@ -38,24 +43,21 @@ section{
     
 }
 
-.col-md-2 img:hover{
+.column img:hover{
     transform: scale(1.1);
 }
-.col-md-2 p{
+.column p{
     margin-bottom: 20px;
     margin-top: 20px;
 }
-.col-md-2 h6{
+.column h6{
     margin-top: -10px;
 }
-.col-md-2 a{
+.column a{
     text-decoration: none;
     color: black;
 }
 
-.length{
-    
-}
 
 
 
