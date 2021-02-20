@@ -15,15 +15,12 @@ section{
     width: 30%;
     background-color: black;
 }
-.divider{
-    margin-right: -161px;
-    margin-left: 4px;
-}
+
 .column{
     
     border-radius: 6px;
-    width: 155px;
-    margin: 6px;
+    
+    
     background-color: white;
     height: 310px;
     cursor: pointer;
@@ -36,7 +33,7 @@ section{
     height: 50%;
     width: 60%;
     margin-top: 20px;
-    margin-left: 25px;
+    margin-left: 0px;
   
     /* text-align: center; margin-top: 25px; */
     /* margin-right: 7px; width: 52%; margin-left: 35px; */
